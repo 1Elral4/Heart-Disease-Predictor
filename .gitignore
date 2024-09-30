@@ -1,0 +1,8 @@
+# Ignore virtual environment directories
+venv/
+myenv/
+heart_disease_predictor/
+
+# Ignore Anaconda environment files
+*.conda
+*.env
